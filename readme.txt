@@ -1,3 +1,3 @@
 Git is a version control system
 Git is free software
-test changed 2
+This is a test of changing code.
