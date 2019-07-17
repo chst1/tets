@@ -14,4 +14,8 @@ dev change
 
 dev change
 dev change2
+<<<<<<< Updated upstream
 test change stash
+=======
+test stash
+>>>>>>> Stashed changes
